@@ -21,6 +21,7 @@ $f_i(bold(x))$改进,同时不使得其他目标$f_j(x) (j!=i)$恶化.
 - 帕累托最优解 是不可被其他解支配的解
 - Pareto Set 这些最优解的集合
 - Pareto-Optimal Front 在这些最优解的条件下,目标函数的值(带入最优解)
+#figure(caption: [对于$f_1$,$f_2$两个目标的不同形状])[#image("2024-12-24-17-48-14.png")]
 == 最优解的类型
 - Global optimal solution(全局最优解)
 - Local optimal solution: a point that is not worse than any other points in its neighborhood(这个近邻点是可以有不同的定义的), 全局最优解一定是局部最优解
